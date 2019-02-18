@@ -8,3 +8,7 @@ body{
 	float: left;
 	margin: 1.66%;
 }
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
